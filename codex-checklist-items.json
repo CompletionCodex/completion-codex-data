@@ -1,0 +1,3073 @@
+[
+ {
+  "category": "ship_log",
+  "hint": "Hearthian village, museum, Nomai statue opening its eyes, Hal dialogue",
+  "id": "sl01-th-village",
+  "item": "Timber Hearth: Village (ship log card)"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Training cave; repairing satellites for Gossan",
+  "id": "sl02-th-zero-g-cave",
+  "item": "Timber Hearth: Zero-G Cave"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Deep-space-satellite photos; Hornfels noticed something strange",
+  "id": "sl03-th-radio-tower",
+  "item": "Timber Hearth: Radio Tower"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Ore for Ash Twin Project shell; four-eyed semi-aquatic lifeforms",
+  "id": "sl04-th-nomai-mines",
+  "item": "Timber Hearth: Nomai Mines"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Wandering quantum shard; poem on a tree",
+  "id": "sl05-th-quantum-grove",
+  "item": "Timber Hearth: Quantum Grove"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Crashed seed taken root; harmonica signal; bigger inside",
+  "id": "sl06-th-dark-bramble-seed",
+  "item": "Timber Hearth: Dark Bramble Seed"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Device to pinpoint distant signals; Nomai failed to detect the Eye",
+  "id": "sl07-at-eye-signal-locator",
+  "item": "Attlerock: Eye Signal Locator"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Esker growing trees, alone too long",
+  "id": "sl08-at-eskers-camp",
+  "item": "Attlerock: Esker's Camp"
+ },
+ {
+  "category": "ship_log",
+  "hint": "View of solar system; Esker tracks travelers by signalscope",
+  "id": "sl09-at-lunar-lookout",
+  "item": "Attlerock: Lunar Lookout"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Temp settlement; mural panels 1-3; Eye of the universe named",
+  "id": "sl10-bh-old-settlement",
+  "item": "Brittle Hollow: Old Settlement"
+ },
+ {
+  "category": "ship_log",
+  "hint": "One of three escape pods launched from the damaged Vessel",
+  "id": "sl11-bh-escape-pod-1",
+  "item": "Brittle Hollow: Escape Pod 1"
+ },
+ {
+  "category": "ship_log",
+  "hint": "City under northern glacier, four districts; debated warp core",
+  "id": "sl12-bh-hanging-city",
+  "item": "Brittle Hollow: The Hanging City"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Warp tower alignment rules; Poke forged the advanced warp core",
+  "id": "sl13-bh-black-hole-forge",
+  "item": "Brittle Hollow: Black Hole Forge"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Pilgrimage to Quantum Moon; shrine-on-north-pole rule",
+  "id": "sl14-bh-tower-quantum-knowledge",
+  "item": "Brittle Hollow: Tower of Quantum Knowledge"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Upward gravity field; recalled a Nomai shuttle from the Quantum Moon",
+  "id": "sl15-bh-gravity-cannon",
+  "item": "Brittle Hollow: Gravity Cannon"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Eye search; decision to send deep-space probe; tornado simulation",
+  "id": "sl16-bh-southern-observatory",
+  "item": "Brittle Hollow: Southern Observatory"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Warp receiver from White Hole Station; warp tech recreated",
+  "id": "sl17-bh-northern-glacier",
+  "item": "Brittle Hollow: Northern Glacier"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Riebeck the archaeologist at the Crossroads; terror of the black hole",
+  "id": "sl18-bh-riebeck-camp",
+  "item": "Brittle Hollow: Riebeck's Camp"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Inside a volcano; supernova-proof shell testing",
+  "id": "sl19-hl-volcanic-testing",
+  "item": "Hollow's Lantern: Volcanic Testing Site"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Gabbro in hammock; loop-aware; found Nomai statue",
+  "id": "sl20-gd-gabbro-island",
+  "item": "Giant's Deep: Gabbro's Island"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Where Nomai statues were made; Statue Workshop (pairing, masks)",
+  "id": "sl21-gd-statue-island",
+  "item": "Giant's Deep: Statue Island"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Orbital Probe Cannon built here; recently launched probe",
+  "id": "sl22-gd-construction-yard",
+  "item": "Giant's Deep: Construction Yard"
+ },
+ {
+  "category": "ship_log",
+  "hint": "First quantum journey knowledge; Rule of Quantum Imaging",
+  "id": "sl23-gd-tower-quantum-trials",
+  "item": "Giant's Deep: Tower of Quantum Trials"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Thorny vines, frozen jellyfish; Feldspar camped here",
+  "id": "sl24-gd-bramble-island",
+  "item": "Giant's Deep: Bramble Island"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Calm below the current; coral forest at the core",
+  "id": "sl25-gd-ocean-depths",
+  "item": "Giant's Deep: Ocean Depths"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Built to find the Eye; broken remains, three accessways",
+  "id": "sl26-opc-card",
+  "item": "Orbital Probe Cannon (ship log card)"
+ },
+ {
+  "category": "ship_log",
+  "hint": "9,318,054th probe found the Eye; Eye coordinates found",
+  "id": "sl27-opc-probe-tracking",
+  "item": "Orbital Probe Cannon: Probe Tracking Module"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Projection pool intact; Mallow vs Privet debate",
+  "id": "sl28-opc-launch-module",
+  "item": "Orbital Probe Cannon: Launch Module"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Received Ash Twin Project launch request; structural integrity compromised",
+  "id": "sl29-opc-control-module",
+  "item": "Orbital Probe Cannon: Control Module"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Derelict Nomai Vessel; dead warp core; bridge pillar; Eye-signal recording under platform",
+  "id": "sl30-db-vessel",
+  "item": "Dark Bramble: The Vessel"
+ },
+ {
+  "category": "ship_log",
+  "hint": "One of three pods; two Vessel beacons detected",
+  "id": "sl31-db-escape-pod-3",
+  "item": "Dark Bramble: Escape Pod 3"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Small seed; dying beacon; scout photos of derelict ship inside",
+  "id": "sl32-db-nomai-grave",
+  "item": "Dark Bramble: Nomai Grave"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Feldspar alive in anglerfish skeleton",
+  "id": "sl33-db-feldspar-camp",
+  "item": "Dark Bramble: Feldspar's Camp"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Rubbery outside insulates from electricity (core barrier hint)",
+  "id": "sl34-db-frozen-jellyfish",
+  "item": "Dark Bramble: Frozen Jellyfish"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Astronomy gear at north pole; many supernovae; dying stars",
+  "id": "sl35-et-chert-camp",
+  "item": "Ember Twin: Chert's Camp"
+ },
+ {
+  "category": "ship_log",
+  "hint": "One of three pods launched from the Vessel",
+  "id": "sl36-et-escape-pod-2",
+  "item": "Ember Twin: Escape Pod 2"
+ },
+ {
+  "category": "ship_log",
+  "hint": "City in cavern, four districts; debated building the Sun Station",
+  "id": "sl37-et-sunless-city",
+  "item": "Ember Twin: The Sunless City"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Nomai children's game; blindfold because anglerfish are blind",
+  "id": "sl38-et-anglerfish-fossil",
+  "item": "Ember Twin: Anglerfish Fossil"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Upward gravity field; recalled a Nomai shuttle from the Interloper",
+  "id": "sl39-et-gravity-cannon",
+  "item": "Ember Twin: Gravity Cannon"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Device tracking the Quantum Moon; travels to at least five locations",
+  "id": "sl40-et-quantum-moon-locator",
+  "item": "Ember Twin: Quantum Moon Locator"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Wandering rock in northern caves; shard moves when unwatched",
+  "id": "sl41-et-quantum-caves",
+  "item": "Ember Twin: Quantum Caves"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Coleus on the rock; rule of quantum entanglement",
+  "id": "sl42-et-lakebed-cave",
+  "item": "Ember Twin: Lakebed Cave"
+ },
+ {
+  "category": "ship_log",
+  "hint": "White Hole temporal anomaly reproduced; Ash Twin Tower Designs",
+  "id": "sl43-et-high-energy-lab",
+  "item": "Ember Twin: High Energy Lab",
+  "status": "captured",
+  "evidence": "Session 5 121:54-122:12: full card read aloud from ship log."
+ },
+ {
+  "category": "ship_log",
+  "hint": "Hollowed chamber; eight masked monoliths; sends data 22 min back; advanced warp core",
+  "id": "sl44-atw-project",
+  "item": "Ash Twin: Ash Twin Project"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Ring of towers; White Hole Station was the model",
+  "id": "sl45-atw-towers",
+  "item": "Ash Twin: Ash Twin Towers"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Warp towers tuned to astral bodies; negative time interval",
+  "id": "sl46-wh-station",
+  "item": "White Hole: White Hole Station"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Shuttle in ice; three Nomai aboard; Clary stayed behind",
+  "id": "sl47-in-shuttle",
+  "item": "Interloper: Frozen Nomai Shuttle"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Lethal exotic matter; rupture would blanket the solar system",
+  "id": "sl48-in-ruptured-core",
+  "item": "Interloper: Ruptured Core"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Landed on the surface; dead Nomai in spacesuit near south pole",
+  "id": "sl49-qm-card",
+  "item": "Quantum Moon (ship log card)"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Wandering shrine; three rules recalled",
+  "id": "sl50-qm-shrine",
+  "item": "Quantum Moon: Quantum Shrine"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Moon is the Eye's moon; met the living Solanum",
+  "id": "sl51-qm-sixth-location",
+  "item": "Quantum Moon: Sixth Location"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Landed at the south pole; stone combinations",
+  "id": "sl52-qm-solanum-shuttle",
+  "item": "Quantum Moon: Solanum's Shuttle"
+ },
+ {
+  "category": "ship_log",
+  "hint": "Designed to make the sun supernova; fired with no effect; sun dying naturally",
+  "id": "sl53-sun-station",
+  "item": "Sun Station (ship log card)"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Departure/arrival/return-warp dynamic text",
+  "id": "nt01",
+  "item": "Timber Hearth: Ash Twin warp arrival pad/receiver (large Geyser Mountain south of the Village)"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Coleus/Cycad/Oeno; NOT on the receiver building",
+  "id": "nt02",
+  "item": "Timber Hearth: First Encounter Mural conversation (reservoir beneath the bridge to the Nomai Mines, at the bottom of Geyser Mountain)"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Ore purpose",
+  "id": "nt03",
+  "item": "Timber Hearth Mining Site 2b: Ore purpose"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Last of the ore",
+  "id": "nt04",
+  "item": "Timber Hearth Mining Site 2b: Last of the ore"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Chert's Notes on the tree",
+  "id": "nt05",
+  "item": "Timber Hearth Quantum Grove: Chert's Notes"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "No-DLC only",
+  "id": "nt08",
+  "item": "Timber Hearth museum: unfinished exhibit",
+  "status": "na",
+  "na_reason": "No-DLC-only content: with Echoes of the Eye installed (Scott's build), this spot holds the DLC satellite exhibit (nt09); the unfinished-exhibit notice does not exist."
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "DLC only",
+  "id": "nt09",
+  "item": "Timber Hearth museum: DLC satellite exhibit"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Observatory notes",
+  "id": "nt10",
+  "item": "Timber Hearth: Hornfels' Observatory Notes parts 1 and 2"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Village note",
+  "id": "nt11",
+  "item": "Timber Hearth: Tektite's Scout-Launcher note"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Zero-G Cave note",
+  "id": "nt12",
+  "item": "Timber Hearth: Gossan's Zero-G Cave note"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "DLC-only voice recording",
+  "id": "nt14",
+  "item": "Timber Hearth Radio Tower: Hornfels satellite-anomaly voice recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Gabbro's three dozing steps",
+  "id": "nt15",
+  "item": "Timber Hearth Radio Tower: campsite journal with Gabbro's dozing steps"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Underground chamber texts",
+  "id": "nt16",
+  "item": "Attlerock: Eye signal tests"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Building the locator",
+  "id": "nt17",
+  "item": "Attlerock: Building a new Eye signal locator"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Riebeck's notes at the ruins",
+  "id": "nt18",
+  "item": "Attlerock: Riebeck's notes"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Chert's Research Notes",
+  "id": "nt19",
+  "item": "Attlerock: Chert's Research Notes"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Read every entry: Day 48, 51, 55, 63, 70, 76, 88",
+  "id": "nt20",
+  "item": "Attlerock: Esker's Signalscope Log \u2014 all 7 entries"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP dynamic info wall",
+  "id": "nt21",
+  "item": "Ash Twin Project: dynamic cycle information"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt22",
+  "item": "Ash Twin Project: Excavation of Ash Twin wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt23",
+  "item": "Ash Twin Project: Warp Tower connections wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt24",
+  "item": "Ash Twin Project: OPC tests wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt25",
+  "item": "Ash Twin Project: Memory statues finished wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt26",
+  "item": "Ash Twin Project: Sun Station complete wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt27",
+  "item": "Ash Twin Project: ATP order-of-events wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt28",
+  "item": "Ash Twin Project: Sun Station failed wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP wall",
+  "id": "nt29",
+  "item": "Ash Twin Project: Arrival of comet wall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP projection stone: Advanced warp core",
+  "id": "nt30",
+  "item": "Ash Twin Project: Brittle Hollow projection stone"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP projection stone: fail-safe",
+  "id": "nt31",
+  "item": "Ash Twin Project: Giant's Deep projection stone"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP projection stone: ATP/probe",
+  "id": "nt32",
+  "item": "Ash Twin Project: Probe Tracking Module projection stone"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP projection stone: last ore",
+  "id": "nt33",
+  "item": "Ash Twin Project: Timber Hearth projection stone"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP text",
+  "id": "nt34",
+  "item": "Ash Twin Project: Gravity control text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "ATP text",
+  "id": "nt35",
+  "item": "Ash Twin Project: Core warning/control text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Ash Twin tower conversation",
+  "id": "nt36",
+  "item": "Ash Twin: Sun Station Tower conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Ash Twin tower conversation",
+  "id": "nt37",
+  "item": "Ash Twin: Ember Twin Tower conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Ash Twin tower conversation",
+  "id": "nt38",
+  "item": "Ash Twin: Brittle Hollow Tower conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Verify in-game \u2014 not confirmed on wiki",
+  "id": "nt39",
+  "item": "Ash Twin: Giant's Deep Tower wall writings"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Verify in-game \u2014 not confirmed on wiki",
+  "id": "nt40",
+  "item": "Ash Twin: Timber Hearth Tower wall writings"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Fixed wall + movable scroll/socket",
+  "id": "nt41",
+  "item": "Ember Twin: Quantum Moon Locator fixed wall + scroll/socket"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Flightlog, interior/outside records, trail writings",
+  "id": "nt42",
+  "item": "Ember Twin: Escape Pod 2 flightlog, records, trail writings"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Directions to Sunless City, grove, Anglerfish Fossil",
+  "id": "nt43",
+  "item": "Ember Twin: Crash Site Caves trail markers"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Sunless City",
+  "id": "nt44",
+  "item": "Ember Twin Sunless City: Anglerfish Overlook"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Reaching Sun Station via Ash Twin; behind a sandfall",
+  "id": "nt45",
+  "item": "Ember Twin Sunless City: hidden-building scroll"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Children's writings + secret fossil entrance",
+  "id": "nt46",
+  "item": "Ember Twin Sunless City: Stepping Stone District writings"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt47",
+  "item": "Ember Twin Sunless City: Eye Shrine District writings"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Trailhead signage",
+  "id": "nt48",
+  "item": "Ember Twin: High Energy Lab Trailhead signage"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Research chamber / blindness texts",
+  "id": "nt49",
+  "item": "Ember Twin: Anglerfish Fossil research chamber texts"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Controls / Interloper shuttle state",
+  "id": "nt50",
+  "item": "Ember Twin Gravity Cannon: controls + shuttle state"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Pye/Ramie experiment writings, computer readouts, energy control",
+  "id": "nt51",
+  "item": "Ember Twin High Energy Lab: experiment writings and readouts"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Cave Shard / Coleus disappearance texts",
+  "id": "nt52",
+  "item": "Ember Twin Quantum Caves + Lakebed Cave: disappearance texts"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Outside notes + journal",
+  "id": "nt53",
+  "item": "Brittle Hollow Crossroads: Riebeck's notes + journal"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Flightlog + outside pod recording",
+  "id": "nt54",
+  "item": "Brittle Hollow: Escape Pod 1 flightlog + recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Control/information text",
+  "id": "nt55",
+  "item": "Brittle Hollow Gravity Cannon: control text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Solanum pilgrimage conversation",
+  "id": "nt56",
+  "item": "Brittle Hollow Gravity Cannon: Solanum pilgrimage conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "After recall",
+  "id": "nt57",
+  "item": "Brittle Hollow Gravity Cannon: Solanum shuttle recording after recall"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Black Hole Forge",
+  "id": "nt58",
+  "item": "Brittle Hollow Black Hole Forge: Advanced warp core"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Black Hole Forge",
+  "id": "nt59",
+  "item": "Brittle Hollow Black Hole Forge: Aligning towers"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Black Hole Forge",
+  "id": "nt60",
+  "item": "Brittle Hollow Black Hole Forge: Boarding warning"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Black Hole Forge",
+  "id": "nt61",
+  "item": "Brittle Hollow Black Hole Forge: Core delivery"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Black Hole Forge",
+  "id": "nt62",
+  "item": "Brittle Hollow Black Hole Forge: Warp Tower designs"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic readout",
+  "id": "nt63",
+  "item": "Brittle Hollow Black Hole Forge: dynamic warp-platform readout"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Meltwater District",
+  "id": "nt64",
+  "item": "Brittle Hollow Meltwater District: Advanced Warp Core search"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Meltwater District",
+  "id": "nt65",
+  "item": "Brittle Hollow Meltwater District: Solution 1"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Meltwater District",
+  "id": "nt66",
+  "item": "Brittle Hollow Meltwater District: Solution 2"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Meltwater District",
+  "id": "nt67",
+  "item": "Brittle Hollow Meltwater District: Poke's thoughts on creating the core"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt68",
+  "item": "Brittle Hollow Eye Shrine District: Cassava recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt69",
+  "item": "Brittle Hollow Eye Shrine District: Shrine welcome"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt70",
+  "item": "Brittle Hollow Eye Shrine District: What is the signal"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt71",
+  "item": "Brittle Hollow Eye Shrine District: Eye age"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt72",
+  "item": "Brittle Hollow Eye Shrine District: What is the Eye"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Eye Shrine District",
+  "id": "nt73",
+  "item": "Brittle Hollow Eye Shrine District: Solanum and the Eye"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "School District",
+  "id": "nt74",
+  "item": "Brittle Hollow School District: Festivals"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "School District: Ilex's essay",
+  "id": "nt75",
+  "item": "Brittle Hollow School District: Ilex's 'Why We Should Build a New Vessel'"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "School District: Solanum's essay",
+  "id": "nt76",
+  "item": "Brittle Hollow School District: Solanum's 'Formation Of This Universe'"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Northern Glacier",
+  "id": "nt77",
+  "item": "Brittle Hollow Northern Glacier: Feldspar spare-fuel note",
+  "done": true
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Northern Glacier",
+  "id": "nt78",
+  "item": "Brittle Hollow Northern Glacier: Quantum Moon observations"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Northern Glacier",
+  "id": "nt79",
+  "item": "Brittle Hollow Northern Glacier: Recreation of warp travel"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic readout",
+  "id": "nt80",
+  "item": "Brittle Hollow Northern Glacier: dynamic warp-platform readout"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Arrival/departure-time conversation",
+  "id": "nt81",
+  "item": "Brittle Hollow Northern Glacier: White Hole Station conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt82",
+  "item": "Brittle Hollow Old Settlement: Entrance text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt83",
+  "item": "Brittle Hollow Old Settlement: Eye-signal knowledge"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt84",
+  "item": "Brittle Hollow Old Settlement: Vessel-crash recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt85",
+  "item": "Brittle Hollow Old Settlement: Plume's brother",
+  "done": true
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt86",
+  "item": "Brittle Hollow Old Settlement: Keek memorial"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt87",
+  "item": "Brittle Hollow Old Settlement: Foli missing"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt88",
+  "item": "Brittle Hollow Old Settlement: Thatch and loss"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement: Ilex poem",
+  "id": "nt89",
+  "item": "Brittle Hollow Old Settlement: Ilex poem",
+  "done": true
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt90",
+  "item": "Brittle Hollow Old Settlement: Black-hole warning"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Old Settlement",
+  "id": "nt91",
+  "item": "Brittle Hollow Old Settlement: New-settlement discussion"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt92",
+  "item": "Brittle Hollow Southern Observatory: Giant's Deep current"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt93",
+  "item": "Brittle Hollow Southern Observatory: Giant's Deep cyclones"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt94",
+  "item": "Brittle Hollow Southern Observatory: Knowledge of the Eye"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt95",
+  "item": "Brittle Hollow Southern Observatory: New search methods"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt96",
+  "item": "Brittle Hollow Southern Observatory: Eye orbit computer error"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Southern Observatory",
+  "id": "nt97",
+  "item": "Brittle Hollow Southern Observatory: Riebeck's exterior recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge",
+  "id": "nt98",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Grove observations"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge",
+  "id": "nt99",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Surface tower description"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge",
+  "id": "nt100",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Tower Shard text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge",
+  "id": "nt101",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Bottom-of-tower text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge",
+  "id": "nt102",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Pilgrimage information"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Knowledge: Solanum's mentor / final rule",
+  "id": "nt103",
+  "item": "Brittle Hollow Tower of Quantum Knowledge: Solanum's mentor rule"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Gravity crystal workshop + trail",
+  "id": "nt104",
+  "item": "Brittle Hollow: Riebeck's gravity-crystal camp notes"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Solanum congratulation + tradition shelf scroll; verify in-game",
+  "id": "nt105",
+  "item": "Brittle Hollow upper Tower of Quantum Knowledge: two scrolls"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "By Poke; astral-body alignment",
+  "id": "nt106",
+  "item": "White Hole Station: Poke's Welcome text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "North-pole volcano interior; Root and Oeno",
+  "id": "nt107",
+  "item": "Hollow's Lantern Volcanic Testing Site: 'Nomai ore testing' conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "North-pole volcano interior",
+  "id": "nt108",
+  "item": "Hollow's Lantern Volcanic Testing Site: Evacuation warning"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Projection pool + stone + computer; not transcribed on wiki",
+  "id": "nt109",
+  "item": "Hollow's Lantern Volcanic Testing Site: pool/stone/computer conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Bramble Island",
+  "id": "nt110",
+  "item": "Giant's Deep Bramble Island: Feldspar's log"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Construction Yard",
+  "id": "nt111",
+  "item": "Giant's Deep Construction Yard: Giant's Deep current"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Construction Yard",
+  "id": "nt112",
+  "item": "Giant's Deep Construction Yard: OPC finished"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Construction Yard",
+  "id": "nt113",
+  "item": "Giant's Deep Construction Yard: OPC put on hold"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Probe Tracking Module",
+  "id": "nt114",
+  "item": "Giant's Deep Probe Tracking Module: ATP/probe conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Probe Tracking Module",
+  "id": "nt115",
+  "item": "Giant's Deep Probe Tracking Module: OPC structural integrity"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic count, fixed 9,318,054, coordinates",
+  "id": "nt116",
+  "item": "Giant's Deep Probe Tracking Module: probe coordinate records"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Statue Workshop",
+  "id": "nt117",
+  "item": "Giant's Deep Statue Workshop: Entrance text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Children testing memory statues",
+  "id": "nt118",
+  "item": "Giant's Deep Statue Workshop: children's conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Statue Workshop",
+  "id": "nt119",
+  "item": "Giant's Deep Statue Workshop: Memory statue recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Statue Workshop",
+  "id": "nt120",
+  "item": "Giant's Deep Statue Workshop: Fail-safe explanation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Statue Workshop",
+  "id": "nt121",
+  "item": "Giant's Deep Statue Workshop: Sending memories back"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic readout",
+  "id": "nt122",
+  "item": "Giant's Deep Statue Workshop: dynamic warp-platform text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Trials",
+  "id": "nt123",
+  "item": "Giant's Deep Tower of Quantum Trials: Entrance"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Trials",
+  "id": "nt124",
+  "item": "Giant's Deep Tower of Quantum Trials: First trial"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Trials",
+  "id": "nt125",
+  "item": "Giant's Deep Tower of Quantum Trials: Second trial"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Tower of Quantum Trials",
+  "id": "nt126",
+  "item": "Giant's Deep Tower of Quantum Trials: Third trial"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Final room: 'We offer our congratulations! You've learned the rule of quantum imaging...'",
+  "id": "nt127",
+  "item": "Giant's Deep Tower of Quantum Trials: possible final/exit text"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Control Module",
+  "id": "nt128",
+  "item": "Orbital Probe Cannon Control Module: Cannon components"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Control Module",
+  "id": "nt129",
+  "item": "Orbital Probe Cannon Control Module: OPC put on hold"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Launch order / damage readouts",
+  "id": "nt130",
+  "item": "Orbital Probe Cannon Control Module: dynamic launch readouts"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Launch Module",
+  "id": "nt131",
+  "item": "Orbital Probe Cannon Launch Module: Cannon components"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Launch Module",
+  "id": "nt132",
+  "item": "Orbital Probe Cannon Launch Module: structural-integrity conversation"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Escape Pod 3",
+  "id": "nt133",
+  "item": "Dark Bramble: Escape Pod 3 flightlog"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Escape Pod 3",
+  "id": "nt134",
+  "item": "Dark Bramble: Escape Pod 3 out-of-air recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Escape Pod 3",
+  "id": "nt135",
+  "item": "Dark Bramble: Escape Pod 3 leaving-pod recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Feldspar route",
+  "id": "nt136",
+  "item": "Dark Bramble: outside frozen-jellyfish note"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Feldspar route",
+  "id": "nt137",
+  "item": "Dark Bramble: inside frozen-jellyfish note"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Secca's final wall message",
+  "id": "nt138",
+  "item": "Dark Bramble Nomai Grave: Secca's final message"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "The Vessel",
+  "id": "nt139",
+  "item": "Dark Bramble The Vessel: Eye-signal encounter recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "The Vessel",
+  "id": "nt140",
+  "item": "Dark Bramble The Vessel: Distress signal"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Canna/Bromi/Clem/Hyssop/Neem",
+  "id": "nt141",
+  "item": "Dark Bramble The Vessel: modern Nomai inbound signal chain"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Frozen shuttle",
+  "id": "nt142",
+  "item": "Interloper: outside shuttle recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "After recall from Ember Twin cannon",
+  "id": "nt143",
+  "item": "Interloper: inside recalled-shuttle recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Cave system",
+  "id": "nt144",
+  "item": "Interloper: cave-system recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Ruptured core",
+  "id": "nt145",
+  "item": "Interloper: Ruptured Core recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Solanum's shuttle",
+  "id": "nt146",
+  "item": "Quantum Moon: Solanum shuttle recording"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Quantum Shrine inscription",
+  "id": "nt147",
+  "item": "Quantum Moon Quantum Shrine: Rule of quantum imaging"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Quantum Shrine inscription",
+  "id": "nt148",
+  "item": "Quantum Moon Quantum Shrine: Rule of quantum entanglement"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Quantum Shrine inscription",
+  "id": "nt149",
+  "item": "Quantum Moon Quantum Shrine: Rule of the sixth location"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic",
+  "id": "nt150",
+  "item": "Sun Station: dynamic system sleep mode"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Dynamic countdowns",
+  "id": "nt151",
+  "item": "Sun Station: dynamic evacuation notice/countdowns"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Sun Station",
+  "id": "nt152",
+  "item": "Sun Station: Sun Station purpose"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Sun Station",
+  "id": "nt153",
+  "item": "Sun Station: Sun Station failed"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Nonverbal interactions + artifact instruction context",
+  "id": "nt156",
+  "item": "DLC: alarm-bell interactions and artifact instructions"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Near the Deep Space Satellite; 'ol' Spacey'",
+  "id": "nt157",
+  "item": "DLC: Gabbro's voice report near the Deep Space Satellite"
+ },
+ {
+  "category": "nomai_texts",
+  "id": "nt158",
+  "item": "Timber Hearth: backer gravestones (3) behind building near launch tower",
+  "hint": "'Here lies Isrever' / 'Here lies BinarySemaphore' / 'Here lies Sean Ariamaki Riedinger'; no transcript evidence",
+  "status": "missing",
+  "done": true
+ },
+ {
+  "category": "nomai_texts",
+  "id": "nt160",
+  "item": "Timber Hearth Observatory: Sky Shutter projector instructions",
+  "hint": "Projector linked to Sky Shutter satellite; 'take a snapshot of our village' prompt",
+  "status": "captured",
+  "session": "session01",
+  "timestamp": "12:09",
+  "evidence": "Scott read the projector text aloud: 'this projector is linked to our sky shutter satellite which is currently orbiting timber hearth ... see if you can take a snapshot of our village'"
+ },
+ {
+  "category": "nomai_texts",
+  "id": "nt161",
+  "item": "Timber Hearth museum: post-Eye-ending (new universe) DLC exhibit variants",
+  "hint": "New-universe exhibits after completing the Eye ending (DLC); verify in-game; no transcript evidence",
+  "status": "na",
+  "evidence": "Retired 2026-09-21 per Scott: the 'new exhibit' is just the Echoes of the Eye DLC adding the deep-space satellite/radio-tower exhibit to the museum. No post-Eye-ending placard variants exist; nothing to record."
+ },
+ {
+  "category": "nomai_texts",
+  "id": "nt162",
+  "item": "Giant's Deep Statue Island: Steins;Gate/Divergence Meter hidden scroll",
+  "hint": "Scroll hidden as an unlit wall lamp at the highest point inside Statue Island; grab during a cyclone lift; translates to the Divergence Meter/streamer-thanks message; no transcript evidence",
+  "status": "missing"
+ },
+ {
+  "category": "nomai_texts",
+  "hint": "Giant's Deep teleporter arrival wall writing; Phlox welcome + Phlox workshop below the island",
+  "id": "gd-statue-workshop-rumor",
+  "item": "Giant's Deep: Statue Workshop rumor wall writing"
+ },
+ {
+  "id": "nt164",
+  "category": "nomai_texts",
+  "item": "Ember Twin: High Energy Lab warp receiver readout",
+  "hint": "Warp receiver pad display in the small Nomai ruin by the High Energy Lab; departure/arrival time readout"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Found the hidden recording",
+  "id": "nw01-vessel-eye-recording",
+  "item": "Vessel's Eye-signal recording (under bridge platform)"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Half-buried on Brittle Hollow surface; smiley + QR code",
+  "id": "nw02-pivot-scroll",
+  "item": "Pivot's Easter-egg scroll",
+  "done": true
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "High Energy Lab wall",
+  "id": "nw03-ash-twin-tower-designs",
+  "item": "Ash Twin Tower Designs wall"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Combined her stones in many verb+noun pairs",
+  "id": "nw04-solanum-dialogue",
+  "item": "Solanum's full dialogue"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Talked to Chert at multiple loop stages",
+  "id": "nw05-chert-dialogue",
+  "item": "Chert's four dialogue states"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Read the poem on the tree",
+  "id": "nw06-quantum-grove-poem",
+  "item": "Quantum Grove poem"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Sun Station, Construction Yard, Probe Tracking Module computers",
+  "id": "nw07-nomai-terminals",
+  "item": "Nomai computer terminals"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Scouted into the seed at the Nomai Grave",
+  "id": "nw08-nomai-grave-photos",
+  "item": "Nomai grave seed photos"
+ },
+ {
+  "category": "nomai_writings",
+  "hint": "Lakebed Cave, Sunless City lower districts, Black Hole Forge, Sun Station",
+  "id": "nw09-time-gated-texts",
+  "item": "Time-gated texts"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Village/Observatory placard",
+  "id": "nt06",
+  "item": "Timber Hearth: Ghost Matter warning placard"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp01-museum-entrance",
+  "item": "Museum placard: Outer Wilds Ventures (entrance exhibit)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp02-museum-founding-members",
+  "item": "Museum placard: founding members (founders painting)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp03-museum-founders-poster",
+  "item": "Museum placard: founders poster / backer thanks (beneath the painting)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp04-museum-nomai-statue",
+  "item": "Museum placard: Nomai statue"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp05-museum-radio-tower",
+  "item": "Museum placard: radio tower / Deep Space Satellite"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp06-museum-attlerock-gravity",
+  "item": "Museum placard: Attlerock gravity (orbiting balls tray)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp07-museum-star-lifecycle-1",
+  "item": "Museum placard: star lifecycle 1 (fusion)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp08-museum-star-lifecycle-2",
+  "item": "Museum placard: star lifecycle 2 (red giant)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp09-museum-star-lifecycle-3",
+  "item": "Museum placard: star lifecycle 3 (supernova)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp10-museum-moving-rock",
+  "item": "Museum placard: the moving rock (Museum Shard exhibit)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp11-museum-anglerfish",
+  "item": "Museum placard: anglerfish specimen case"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp12-museum-gravity-crystal",
+  "item": "Museum placard: gravity crystal"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp13-museum-nomai-technology",
+  "item": "Museum placard: Nomai technology"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp14-museum-nomai-skeleton",
+  "item": "Museum placard: Nomai skeleton case"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp15-museum-nomai-pottery",
+  "item": "Museum placard: Nomai pottery case"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Observatory museum, Timber Hearth \u2014 one physical placard",
+  "id": "sp16-museum-writing-fragment",
+  "item": "Museum placard: Nomai writing fragment"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Timber Hearth village trailhead signpost (scout launcher platform)",
+  "id": "sp17-trailhead-nw-geyser",
+  "item": "Trailhead placard: Northwest \u2014 Geyser Mountains"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Timber Hearth village trailhead signpost (scout launcher platform)",
+  "id": "sp18-trailhead-n-youngbark",
+  "item": "Trailhead placard: North \u2014 Youngbark Crater"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Timber Hearth village trailhead signpost (scout launcher platform)",
+  "id": "sp19-trailhead-s-quantum-grove",
+  "item": "Trailhead placard: South \u2014 Quantum Grove Crater"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Timber Hearth village trailhead signpost (scout launcher platform)",
+  "id": "sp20-trailhead-e-nomai-ruins",
+  "item": "Trailhead placard: East \u2014 Nomai Ruins"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Placard beside Feldspar's pilot seat from the inaugural flight",
+  "id": "sp21-feldspar-chair",
+  "item": "Feldspar's pilot seat placard (Observatory)"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Gossan's placard at the Observatory / Zero-G Cave signpost",
+  "id": "sp22-zero-g-cave-sign",
+  "item": "Zero-G Cave entrance placard (\"come say hi\")"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "No-DLC closed sign / fire damage",
+  "id": "nt13",
+  "item": "Timber Hearth Radio Tower: closed/fire-damage sign",
+  "status": "na",
+  "na_reason": "No-DLC-only content: with Echoes of the Eye installed (Scott's build), the radio tower is open with Hornfels's satellite-anomaly voice recording (nt14); the closed/fire-damage sign does not exist."
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Hanging City entrance directory, Brittle Hollow",
+  "id": "sp23-hc-school-district",
+  "item": "Hanging City district sign: School District"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Hanging City entrance directory, Brittle Hollow",
+  "id": "sp24-hc-meltwater-district",
+  "item": "Hanging City district sign: Meltwater District"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Hanging City entrance directory, Brittle Hollow",
+  "id": "sp25-hc-eye-shrine-district",
+  "item": "Hanging City district sign: Eye Shrine District"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Hanging City entrance directory, Brittle Hollow",
+  "id": "sp26-hc-black-hole-forge-district",
+  "item": "Hanging City district sign: Black Hole Forge District"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Hanging City entrance directory, Brittle Hollow",
+  "id": "sp27-hc-forge-controls-pointer",
+  "item": "Hanging City sign: Black Hole Forge controls pointer"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "Real-world Stranger area signs only (dream areas have none): Hidden Gorge, River Lowlands, Cinder Isles, Reservoir + Cinder tower symbol diagram",
+  "id": "nt154",
+  "item": "DLC: Owlkin area-name pictograph signs"
+ },
+ {
+  "category": "signs_placards",
+  "hint": "DLC",
+  "id": "nt155",
+  "item": "DLC: Owlkin door/control pictograph labels"
+ },
+ {
+  "category": "dialogue",
+  "hint": "First introduction",
+  "id": "dlg01",
+  "item": "Chert: Early state (0-11 min)"
+ },
+ {
+  "category": "dialogue",
+  "hint": "11-17 min",
+  "id": "dlg02",
+  "item": "Chert: Middle state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "17-20.5 min, panicked",
+  "id": "dlg03",
+  "item": "Chert: Late panicked state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "20.5 min to end; 'come sit with me'",
+  "id": "dlg04",
+  "item": "Chert: Pre-supernova calm state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Sun supernova, Attlerock notes, hidden planet, Quantum Moon, Sun Station, modern Nomai",
+  "id": "dlg05",
+  "item": "Chert: 'I found something!' menu topics"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg06",
+  "item": "Chert: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Introduction -> question menu",
+  "id": "dlg07",
+  "item": "Esker: introduction dialog"
+ },
+ {
+  "category": "dialogue",
+  "hint": "'Hi again' -> menu",
+  "id": "dlg08",
+  "item": "Esker: secondary dialog",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "Unlocked by reading Marl's dialogue",
+  "id": "dlg09",
+  "item": "Esker: conditional 'Marl says hi'",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg10",
+  "item": "Esker: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "First meeting at Crossroads",
+  "id": "dlg11",
+  "item": "Riebeck: first introduction"
+ },
+ {
+  "category": "dialogue",
+  "hint": "'after talking at least once'",
+  "id": "dlg12",
+  "item": "Riebeck: repeat intro",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "7 topics incl. 'I TALKED TO A LIVING NOMAI!'",
+  "id": "dlg13",
+  "item": "Riebeck: 'I learned something!' all topics",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg14",
+  "item": "Riebeck: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Initial statue story + full question menu",
+  "id": "dlg15",
+  "item": "Gabbro: First Loop state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Talked on first loop",
+  "id": "dlg16",
+  "item": "Gabbro: Second Loop, talked before"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Combined statue+died intro",
+  "id": "dlg17",
+  "item": "Gabbro: Second Loop, not talked before"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Time-loop theory",
+  "id": "dlg18",
+  "item": "Gabbro: Third Loop, talked before"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Third Loop or Later, first meeting",
+  "id": "dlg19",
+  "item": "Gabbro: Third Loop or Later, not talked before"
+ },
+ {
+  "category": "dialogue",
+  "hint": "5 rotating greetings",
+  "id": "dlg20",
+  "item": "Gabbro: Third Loop or Later, talked before"
+ },
+ {
+  "category": "dialogue",
+  "hint": "7 topics incl. DLC satellite photo",
+  "id": "dlg21",
+  "item": "Gabbro: 'I found something!' menu topics"
+ },
+ {
+  "category": "dialogue",
+  "hint": "3rd loop + talked before; ends loop; unlocks pause-menu meditation",
+  "id": "dlg22",
+  "item": "Gabbro: meditation unlock"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg23",
+  "item": "Gabbro: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Crash story, 4 entry branches",
+  "id": "dlg24",
+  "item": "Feldspar: Initial Conversation"
+ },
+ {
+  "category": "dialogue",
+  "hint": "If talked on a previous loop",
+  "id": "dlg25",
+  "item": "Feldspar: conditional 'Let me guess: anglerfish?'"
+ },
+ {
+  "category": "dialogue",
+  "hint": "5 topics",
+  "id": "dlg26",
+  "item": "Feldspar: followup 'I found something!' menu"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg27",
+  "item": "Feldspar: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "6 plan options -> Launch Codes subtree",
+  "id": "dlg28",
+  "item": "Hornfels: first-loop Initial Conversation"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Statue-eyes-open excitement",
+  "id": "dlg29",
+  "item": "Hornfels: second loop or later intro"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Followup question menu",
+  "id": "dlg30",
+  "item": "Hornfels: question menu"
+ },
+ {
+  "category": "dialogue",
+  "hint": "3 nerve options -> satellite-repair tutorial",
+  "id": "dlg31",
+  "item": "Gossan: introduction dialog"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Repair Satellite state",
+  "id": "dlg32",
+  "item": "Gossan: Repair Satellite state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "'Slate didn't install a self-destruct button, did they?'",
+  "id": "dlg33",
+  "item": "Gossan: 'After going to space' state",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "Observatory, pre-launch",
+  "id": "dlg34",
+  "item": "Hal: Initial Conversation"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Follow-up menu",
+  "id": "dlg35",
+  "item": "Hal: follow-up menu"
+ },
+ {
+  "category": "dialogue",
+  "hint": "After statue activation, path intercept",
+  "id": "dlg36",
+  "item": "Hal: launch-pad path intercept"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Statue-eyes-open excitement",
+  "id": "dlg37",
+  "item": "Hal: museum interior after first loop"
+ },
+ {
+  "category": "dialogue",
+  "hint": "First speaker on waking",
+  "id": "dlg38",
+  "item": "Slate: Initial Conversation"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Followup menu",
+  "id": "dlg39",
+  "item": "Slate: followup menu"
+ },
+ {
+  "category": "dialogue",
+  "hint": "After obtaining launch codes",
+  "id": "dlg40",
+  "item": "Slate: after obtaining launch codes"
+ },
+ {
+  "category": "dialogue",
+  "hint": "'Did... did I just... die?'",
+  "id": "dlg41",
+  "item": "Slate: Second Loop"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Time-loop joke menu",
+  "id": "dlg42",
+  "item": "Slate: Third loop and later"
+ },
+ {
+  "category": "dialogue",
+  "hint": "DLC; teaches ship-log destination markers",
+  "id": "dlg43",
+  "item": "DLC: Slate 'After visiting the Stranger' state"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Youngbark Crater",
+  "id": "dlg44",
+  "item": "Tektite: before going to space"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Youngbark Crater",
+  "id": "dlg45",
+  "item": "Tektite: after going to space"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Model-ship controls; launch day",
+  "id": "dlg46",
+  "item": "Mica: village dialogue",
+  "done": true
+ },
+ {
+  "category": "dialogue",
+  "hint": "'Say hi to Esker' \u2014 unlocks Esker's conditional",
+  "id": "dlg47",
+  "item": "Marl: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Flirting with Gossan; 'The Good Stuff'",
+  "id": "dlg48",
+  "item": "Porphy: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Fishing-haul bet; Gabbro stories",
+  "id": "dlg49",
+  "item": "Spinel: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Ghost-matter rock-throwing",
+  "id": "dlg50",
+  "item": "Arkose: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Hide-and-seek",
+  "id": "dlg51",
+  "item": "Tephra: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Hide-and-seek with Tephra",
+  "id": "dlg52",
+  "item": "Galena: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Retro-rocket good-luck line",
+  "id": "dlg53",
+  "item": "Rutile: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Signalscope tutorial",
+  "id": "dlg54",
+  "item": "Moraine: village dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "All 15 unordered stone pairs",
+  "id": "dlg55",
+  "item": "Solanum: all 15 stone-pair combinations"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Eye of the Universe campfire",
+  "id": "dlg56",
+  "item": "Solanum: ending campfire dialogue"
+ },
+ {
+  "category": "dialogue",
+  "hint": "DLC; Vision Torch: crime, visions-back, final waterside vision",
+  "id": "dlg57",
+  "item": "DLC: Prisoner Vision Torch visions"
+ },
+ {
+  "category": "dialogue",
+  "hint": "DLC; pre-gathering, campfire, post-gathering",
+  "id": "dlg58",
+  "item": "DLC: Prisoner ending dialogue tree"
+ },
+ {
+  "category": "dialogue",
+  "id": "dlg59",
+  "item": "Gneiss: village dialogue",
+  "hint": "Instrument maker; travelers' instruments (Chert's drums, Riebeck's banjo, Feldspar's harmonica); observatory directions; no transcript evidence",
+  "status": "missing"
+ },
+ {
+  "category": "dialogue",
+  "id": "dlg60",
+  "item": "Tuff: village dialogue",
+  "hint": "Miner at the zero-g cave lift; zero-g discomfort comedy; 'Give me the dirt' (Tektite's crash sighting); no transcript evidence",
+  "status": "missing"
+ },
+ {
+  "category": "dialogue",
+  "id": "dlg61",
+  "item": "Self (black-hole duplicate): full dialogue tree",
+  "hint": "Jump into the ATP black hole at loop end; duplicate waits next loop; identity/memory divergence, comedy chains, first-flight/Sun Station memories; no transcript evidence",
+  "status": "missing"
+ },
+ {
+  "category": "dialogue",
+  "hint": "Hearthian village, observatory statue room, Hal's line about the statue's eyes opening",
+  "id": "th-village-hal-statue",
+  "item": "Timber Hearth: Hal's statue line (Village card 3rd entry)"
+ },
+ {
+  "category": "locations",
+  "hint": "Observatory/museum, launch pad, Zero-G Cave, playground/model rocket",
+  "id": "loc01-th-village-pois",
+  "item": "Timber Hearth: Village POIs"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the radio tower",
+  "id": "loc02-th-radio-tower",
+  "item": "Timber Hearth: Radio Tower"
+ },
+ {
+  "category": "locations",
+  "hint": "Ghost-matter vents in the mines",
+  "id": "loc03-th-nomai-mines",
+  "item": "Timber Hearth: Nomai Mines"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the grove",
+  "id": "loc04-th-quantum-grove",
+  "item": "Timber Hearth: Quantum Grove"
+ },
+ {
+  "category": "locations",
+  "hint": "North pole crater",
+  "id": "loc05-th-seed-crater",
+  "item": "Timber Hearth: Dark Bramble Seed crater"
+ },
+ {
+  "category": "locations",
+  "hint": "Saw/rode the geysers",
+  "id": "loc06-th-geysers",
+  "item": "Timber Hearth: geysers"
+ },
+ {
+  "category": "locations",
+  "hint": "Met Tektite",
+  "id": "loc07-th-tektite",
+  "item": "Timber Hearth: Tektite"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited Esker",
+  "id": "loc08-at-eskers-camp",
+  "item": "Attlerock: Esker's Camp"
+ },
+ {
+  "category": "locations",
+  "hint": "Underground chamber",
+  "id": "loc09-at-locator",
+  "item": "Attlerock: Eye Signal Locator"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the lookout",
+  "id": "loc10-at-lookout",
+  "item": "Attlerock: Lunar Lookout"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited Riebeck at the Crossroads",
+  "id": "loc11-bh-crossroads",
+  "item": "Brittle Hollow: Crossroads + Riebeck's Camp"
+ },
+ {
+  "category": "locations",
+  "hint": "Explored the old settlement",
+  "id": "loc12-bh-old-settlement",
+  "item": "Brittle Hollow: Old Settlement"
+ },
+ {
+  "category": "locations",
+  "hint": "Found escape pod 1",
+  "id": "loc13-bh-escape-pod-1",
+  "item": "Brittle Hollow: Escape Pod 1"
+ },
+ {
+  "category": "locations",
+  "hint": "Four districts incl. Meltwater District + forge switch",
+  "id": "loc14-bh-hanging-city",
+  "item": "Brittle Hollow: Hanging City"
+ },
+ {
+  "category": "locations",
+  "hint": "Hanging above the black hole",
+  "id": "loc15-bh-black-hole-forge",
+  "item": "Brittle Hollow: Black Hole Forge"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the tower",
+  "id": "loc16-bh-tower-quantum-knowledge",
+  "item": "Brittle Hollow: Tower of Quantum Knowledge"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the observatory",
+  "id": "loc17-bh-southern-observatory",
+  "item": "Brittle Hollow: Southern Observatory"
+ },
+ {
+  "category": "locations",
+  "hint": "Warp receiver pad",
+  "id": "loc18-bh-northern-glacier",
+  "item": "Brittle Hollow: Northern Glacier"
+ },
+ {
+  "category": "locations",
+  "hint": "Used/visited the cannon",
+  "id": "loc19-bh-gravity-cannon",
+  "item": "Brittle Hollow: Gravity Cannon"
+ },
+ {
+  "category": "locations",
+  "hint": "Entered a volcano",
+  "id": "loc20-hl-volcanic-site",
+  "item": "Hollow's Lantern: Volcanic Testing Site"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited Gabbro",
+  "id": "loc21-gd-gabbro-island",
+  "item": "Giant's Deep: Gabbro's Island"
+ },
+ {
+  "category": "locations",
+  "hint": "Basement workshop",
+  "id": "loc22-gd-statue-island",
+  "item": "Giant's Deep: Statue Island + Statue Workshop"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the yard",
+  "id": "loc23-gd-construction-yard",
+  "item": "Giant's Deep: Construction Yard"
+ },
+ {
+  "category": "locations",
+  "hint": "Entered from top, descended",
+  "id": "loc24-gd-tower-trials",
+  "item": "Giant's Deep: Tower of Quantum Trials"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the island",
+  "id": "loc25-gd-bramble-island",
+  "item": "Giant's Deep: Bramble Island"
+ },
+ {
+  "category": "locations",
+  "hint": "Jellyfish-insulated trip to the core",
+  "id": "loc26-gd-ocean-depths",
+  "item": "Giant's Deep: Ocean Depths / core"
+ },
+ {
+  "category": "locations",
+  "hint": "Rode cyclones up/down",
+  "id": "loc27-gd-cyclones",
+  "item": "Giant's Deep: cyclones"
+ },
+ {
+  "category": "locations",
+  "hint": "Debris in orbit",
+  "id": "loc28-gd-opc-debris",
+  "item": "Giant's Deep: Orbital Probe Cannon debris"
+ },
+ {
+  "category": "locations",
+  "hint": "Central hub; Launch/Control/Probe Tracking branches",
+  "id": "loc29-opc-hub",
+  "item": "Orbital Probe Cannon: hub + modules"
+ },
+ {
+  "category": "locations",
+  "hint": "Anglerfish skeleton camp",
+  "id": "loc30-db-feldspar-camp",
+  "item": "Dark Bramble: Feldspar's Camp"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the jellyfish",
+  "id": "loc31-db-frozen-jellyfish",
+  "item": "Dark Bramble: Frozen Jellyfish"
+ },
+ {
+  "category": "locations",
+  "hint": "Found escape pod 3",
+  "id": "loc32-db-escape-pod-3",
+  "item": "Dark Bramble: Escape Pod 3"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the grave seed",
+  "id": "loc33-db-nomai-grave",
+  "item": "Dark Bramble: Nomai Grave"
+ },
+ {
+  "category": "locations",
+  "hint": "Bridge, under-platform recording",
+  "id": "loc34-db-vessel",
+  "item": "Dark Bramble: the Vessel"
+ },
+ {
+  "category": "locations",
+  "hint": "Stealthed past anglerfish",
+  "id": "loc35-db-anglerfish-nests",
+  "item": "Dark Bramble: anglerfish nests"
+ },
+ {
+  "category": "locations",
+  "hint": "Navigated between seeds",
+  "id": "loc36-db-seeds",
+  "item": "Dark Bramble: multiple seeds"
+ },
+ {
+  "category": "locations",
+  "hint": "North pole camp",
+  "id": "loc37-et-chert-camp",
+  "item": "Ember Twin: Chert's Camp"
+ },
+ {
+  "category": "locations",
+  "hint": "Found escape pod 2",
+  "id": "loc38-et-escape-pod-2",
+  "item": "Ember Twin: Escape Pod 2"
+ },
+ {
+  "category": "locations",
+  "hint": "Four districts",
+  "id": "loc39-et-sunless-city",
+  "item": "Ember Twin: Sunless City"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the fossil cave",
+  "id": "loc40-et-anglerfish-fossil",
+  "item": "Ember Twin: Anglerfish Fossil cave"
+ },
+ {
+  "category": "locations",
+  "hint": "Used/visited the cannon",
+  "id": "loc41-et-gravity-cannon",
+  "item": "Ember Twin: Gravity Cannon"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the locator",
+  "id": "loc42-et-qm-locator",
+  "item": "Ember Twin: Quantum Moon Locator"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the lab",
+  "id": "loc43-et-high-energy-lab",
+  "item": "Ember Twin: High Energy Lab"
+ },
+ {
+  "category": "locations",
+  "hint": "Northern-hemisphere caves",
+  "id": "loc44-et-quantum-caves",
+  "item": "Ember Twin: Quantum Caves"
+ },
+ {
+  "category": "locations",
+  "hint": "Under the lakebed, early loop",
+  "id": "loc45-et-lakebed-cave",
+  "item": "Ember Twin: Lakebed Cave"
+ },
+ {
+  "category": "locations",
+  "hint": "Enter via the Ash Twin warp tower while the sand column is overhead (mid-loop); the tower warps you directly into the Project core chamber.",
+  "id": "loc46-atw-project-core",
+  "item": "Ash Twin: Ash Twin Project core"
+ },
+ {
+  "category": "locations",
+  "hint": "Equatorial ring of towers",
+  "id": "loc47-atw-tower-ring",
+  "item": "Ash Twin: warp-tower ring"
+ },
+ {
+  "category": "locations",
+  "hint": "Warped there or visited",
+  "id": "loc48-wh-station",
+  "item": "White Hole Station"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited the frozen shuttle",
+  "id": "loc49-in-shuttle",
+  "item": "Interloper: surface shuttle"
+ },
+ {
+  "category": "locations",
+  "hint": "Fissure opens as comet nears the sun",
+  "id": "loc50-in-ruptured-core",
+  "item": "Interloper: ruptured core"
+ },
+ {
+  "category": "locations",
+  "hint": "Navigated ghost matter",
+  "id": "loc51-in-ghost-matter",
+  "item": "Interloper: ghost-matter tunnels"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited moon at different planets",
+  "id": "loc52-qm-variants",
+  "item": "Quantum Moon: all six variants"
+ },
+ {
+  "category": "locations",
+  "hint": "Entered the shrine",
+  "id": "loc53-qm-shrine",
+  "item": "Quantum Moon: Quantum Shrine"
+ },
+ {
+  "category": "locations",
+  "hint": "South pole of sixth location",
+  "id": "loc54-qm-solanum-camp",
+  "item": "Quantum Moon: Solanum's camp"
+ },
+ {
+  "category": "locations",
+  "hint": "Visited her shuttle",
+  "id": "loc55-qm-solanum-shuttle",
+  "item": "Quantum Moon: Solanum's shuttle"
+ },
+ {
+  "category": "locations",
+  "hint": "Warped via Ash Twin Sun tower or flew manually; Nomai computer",
+  "id": "loc56-sun-station",
+  "item": "Sun Station interior"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg01-esker-whistling",
+  "item": "Signal: Esker (whistling) \u2014 Outer Wilds Ventures"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg02-chert-drums",
+  "item": "Signal: Chert (drums) \u2014 Outer Wilds Ventures"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg03-riebeck-banjo",
+  "item": "Signal: Riebeck (banjo) \u2014 Outer Wilds Ventures"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg04-gabbro-flute",
+  "item": "Signal: Gabbro (flute) \u2014 Outer Wilds Ventures"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg05-feldspar-harmonica",
+  "item": "Signal: Feldspar (harmonica) \u2014 Outer Wilds Ventures"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg06-escape-pod-1",
+  "item": "Signal: Escape Pod 1 distress beacon \u2014 Distress Signal"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg07-escape-pod-2",
+  "item": "Signal: Escape Pod 2 distress beacon \u2014 Distress Signal"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg08-escape-pod-3",
+  "item": "Signal: Escape Pod 3 distress beacon \u2014 Distress Signal"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg09-quantum-moon",
+  "item": "Signal: Quantum Moon \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg10-grove-shard",
+  "item": "Signal: Grove Shard \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg11-cave-shard",
+  "item": "Signal: Cave Shard \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg12-island-shard",
+  "item": "Signal: Island Shard \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg13-tower-shard",
+  "item": "Signal: Tower Shard \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg14-museum-shard",
+  "item": "Signal: Museum Shard \u2014 Quantum Fluctuations"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg15-hide-and-seek",
+  "item": "Signal: Hide and Seek \u2014 temporary tutorial frequency"
+ },
+ {
+  "category": "signals",
+  "hint": "Signalscope signal \u2014 identify the source",
+  "id": "sg16-deep-space-satellite",
+  "item": "Signal: Deep Space Satellite \u2014 Unknown Transmission (Deep Space Radio)"
+ },
+ {
+  "category": "secrets",
+  "hint": "Visited/landed the TH variant",
+  "id": "sec01-qm-th",
+  "item": "Quantum Moon orbiting Timber Hearth"
+ },
+ {
+  "category": "secrets",
+  "hint": "Visited/landed the BH variant",
+  "id": "sec02-qm-bh",
+  "item": "Quantum Moon orbiting Brittle Hollow"
+ },
+ {
+  "category": "secrets",
+  "hint": "Visited/landed the GD variant",
+  "id": "sec03-qm-gd",
+  "item": "Quantum Moon orbiting Giant's Deep"
+ },
+ {
+  "category": "secrets",
+  "hint": "Visited/landed the Twins variant",
+  "id": "sec04-qm-twins",
+  "item": "Quantum Moon orbiting Hourglass Twins"
+ },
+ {
+  "category": "secrets",
+  "hint": "Visited/landed the DB variant",
+  "id": "sec05-qm-db",
+  "item": "Quantum Moon orbiting Dark Bramble"
+ },
+ {
+  "category": "secrets",
+  "hint": "Reached the sixth location",
+  "id": "sec06-qm-sixth",
+  "item": "Quantum Moon sixth location (Eye)"
+ },
+ {
+  "category": "secrets",
+  "hint": "Photographed moon with scout to hold it (Rule of Quantum Imaging)",
+  "id": "sec07-qm-landing",
+  "item": "Quantum Moon landing method"
+ },
+ {
+  "category": "secrets",
+  "hint": "Shrine door closed, lights off, shrine-hopping (Rule of Quantum Entanglement)",
+  "id": "sec08-qm-sixth-reach",
+  "item": "Reaching the sixth location"
+ },
+ {
+  "category": "secrets",
+  "hint": "Fires each loop and destroys itself; saw the launch/breakage",
+  "id": "sec09-opc-fate",
+  "item": "Orbital Probe Cannon's fate"
+ },
+ {
+  "category": "secrets",
+  "hint": "Outer Wilds Ventures, Distress Signal, Quantum Fluctuations, Deep Space Radio, + temporary Hide and Seek",
+  "id": "sec10-sig-frequencies",
+  "item": "Signalscope five frequencies"
+ },
+ {
+  "category": "secrets",
+  "hint": "Harmonica heard from Timber Hearth seed and Dark Bramble",
+  "id": "sec11-sig-feldspar",
+  "item": "Feldspar's harmonica dual signal"
+ },
+ {
+  "category": "secrets",
+  "hint": "Noticed the Unknown signal",
+  "id": "sec12-sig-qm-unknown",
+  "item": "Quantum Moon Unknown signal"
+ },
+ {
+  "category": "secrets",
+  "hint": "Voyager-like satellite near Hourglass Twins; backer slideshow",
+  "id": "sec13-egg-backer-sat",
+  "item": "Fig Backer Satellite"
+ },
+ {
+  "category": "secrets",
+  "hint": "QR scroll on Brittle Hollow surface",
+  "id": "sec14-egg-pivot",
+  "item": "Pivot's Easter-egg scroll",
+  "done": true
+ },
+ {
+  "category": "secrets",
+  "hint": "Chert's arc, Gabbro's loop-awareness, Esker's whistling, Riebeck's notes",
+  "id": "sec15-dialogues",
+  "item": "Traveler dialogue arcs"
+ },
+ {
+  "category": "secrets",
+  "hint": "Statue opened eyes / memories flashed at start",
+  "id": "sec16-statue-pairing",
+  "item": "Museum statue pairing cutscene"
+ },
+ {
+  "category": "secrets",
+  "hint": "Watched the probe launch",
+  "id": "sec17-probe-launch",
+  "item": "Probe-launch moment at the cannon"
+ },
+ {
+  "category": "secrets",
+  "hint": "Witnessed it fall",
+  "id": "sec18-time-sun-station",
+  "item": "Sun Station falling into the sun"
+ },
+ {
+  "category": "secrets",
+  "hint": "Witnessed it fall",
+  "id": "sec19-time-interloper",
+  "item": "Interloper falling into the sun"
+ },
+ {
+  "category": "secrets",
+  "hint": "Witnessed the collapse into the black hole",
+  "id": "sec20-time-bh-collapse",
+  "item": "Brittle Hollow collapsing"
+ },
+ {
+  "category": "secrets",
+  "hint": "Crashed Alpha-build spacecraft on Attlerock near Esker's camp/flag; inspect and narrate",
+  "id": "sec21-egg-alpha-ship",
+  "item": "Alpha Ship (Attlerock)"
+ },
+ {
+  "category": "secrets",
+  "hint": "Nomai skeleton in Hollow's Lantern lava making a 'rock on' gesture (Terminator 2 tribute); fully revealed as the lava drains late in the loop",
+  "id": "sec22-egg-terminator",
+  "item": "Terminator skeleton (Hollow's Lantern)"
+ },
+ {
+  "category": "secrets",
+  "hint": "Stranger, Submerged Structure: past the bridges at the island's edge, light the candle on the small rock; a cat appears and purrs",
+  "id": "sec23-egg-comet",
+  "item": "Comet the Cat (Submerged Structure)"
+ },
+ {
+  "category": "secrets",
+  "hint": "Recursion Node in Dark Bramble (NOT the camp skeleton seed): the node's single self-connecting seed; fire the scout in and view the feed \u2014 a room with human architecture and dead humans (Elsinore reference)",
+  "id": "sec24-egg-elsinore-seed",
+  "item": "Dark Bramble recursive seed (Elsinore)"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 1 entry",
+  "id": "dsl01-stranger",
+  "item": "DLC ship log: The Stranger"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl02-river-lowlands",
+  "item": "DLC ship log: River Lowlands"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl03-rl-slide-burning-room",
+  "item": "DLC ship log: River Lowlands \u2014 Slide Burning Room"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl04-rl-burned-slide-reel",
+  "item": "DLC ship log: River Lowlands \u2014 Burned Slide Reel"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl05-cinder-isles",
+  "item": "DLC ship log: Cinder Isles"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl06-ci-slide-burning-room",
+  "item": "DLC ship log: Cinder Isles \u2014 Slide Burning Room"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl07-ci-burned-slide-reel",
+  "item": "DLC ship log: Cinder Isles \u2014 Burned Slide Reel"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl08-reservoir",
+  "item": "DLC ship log: Reservoir"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl09-reservoir-burned-slide-reel",
+  "item": "DLC ship log: Reservoir \u2014 Burned Slide Reel"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 4 entries",
+  "id": "dsl10-abandoned-temple",
+  "item": "DLC ship log: Abandoned Temple"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 1 entry",
+  "id": "dsl11-map-projection-1",
+  "item": "DLC ship log: Abandoned Temple \u2014 Map Projection 1"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 1 entry",
+  "id": "dsl12-map-projection-2",
+  "item": "DLC ship log: Abandoned Temple \u2014 Map Projection 2"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 1 entry",
+  "id": "dsl13-map-projection-3",
+  "item": "DLC ship log: Abandoned Temple \u2014 Map Projection 3"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl14-submerged-structure",
+  "item": "DLC ship log: Submerged Structure"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl15-subterranean-lake",
+  "item": "DLC ship log: Subterranean Lake"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl16-sealed-vault",
+  "item": "DLC ship log: Sealed Vault"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl17-island-tower",
+  "item": "DLC ship log: Island Tower"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl18-symbol-room",
+  "item": "DLC ship log: Island Tower \u2014 Symbol Room"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 1 entry",
+  "id": "dsl19-hidden-gorge",
+  "item": "DLC ship log: Hidden Gorge"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl20-hg-slide-burning-room",
+  "item": "DLC ship log: Hidden Gorge \u2014 Slide Burning Room"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl21-damaged-laboratory",
+  "item": "DLC ship log: Damaged Laboratory"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl22-hg-burned-slide-reel",
+  "item": "DLC ship log: Hidden Gorge \u2014 Burned Slide Reel"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl23-starlit-cove",
+  "item": "DLC ship log: Starlit Cove"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 6 entries",
+  "id": "dsl24-sc-forbidden-archive",
+  "item": "DLC ship log: Starlit Cove \u2014 Forbidden Archive"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 2 entries",
+  "id": "dsl25-endless-canyon",
+  "item": "DLC ship log: Endless Canyon"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 5 entries",
+  "id": "dsl26-ec-forbidden-archive",
+  "item": "DLC ship log: Endless Canyon \u2014 Forbidden Archive"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 3 entries",
+  "id": "dsl27-shrouded-woodlands",
+  "item": "DLC ship log: Shrouded Woodlands"
+ },
+ {
+  "category": "dlc_ship_log",
+  "hint": "DLC ship log card \u2014 5 entries",
+  "id": "dsl28-sw-forbidden-archive",
+  "item": "DLC ship log: Shrouded Woodlands \u2014 Forbidden Archive"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "River Lowlands theater reel (partly burned)",
+  "id": "sr01-rl-ringed-planet-reel",
+  "item": "Slide reel: River Lowlands \u2014 Ringed Planet reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "River Lowlands theater reel (partly burned)",
+  "id": "sr02-rl-vessel-reel",
+  "item": "Slide reel: River Lowlands \u2014 vault sealing reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Cinder Isles theater reel, star symbol",
+  "id": "sr03-ci-star-reel",
+  "item": "Slide reel: Cinder Isles \u2014 Star reel (burned)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Cinder Isles theater reel, concentric-circles symbol",
+  "id": "sr04-ci-vessel-reel",
+  "item": "Slide reel: Cinder Isles \u2014 Vessel reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden Gorge, Damaged Laboratory",
+  "id": "sr05-lab-experiment-reel",
+  "item": "Slide reel: Damaged Laboratory \u2014 experiment reel (all three experiments)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden in the River Lowlands Slide Burning Room",
+  "id": "sr08-rl-hidden-reel",
+  "item": "Slide reel: River Lowlands hidden reel (Shrouded Woodlands route)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden in the Cinder Isles Slide Burning Room",
+  "id": "sr09-ci-hidden-reel",
+  "item": "Slide reel: Cinder Isles hidden reel (Starlit Cove route)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden in the Hidden Gorge Slide Burning Room",
+  "id": "sr10-hg-hidden-reel",
+  "item": "Slide reel: Hidden Gorge hidden reel (Endless Canyon route)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden floor above the slide-reel storage elevator, Hidden Gorge",
+  "id": "sr11-secret-slide-reel",
+  "item": "Slide reel: the Secret Slide Reel (Hidden Gorge slide-reel storage)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Abandoned Temple symbol room",
+  "id": "sr12-abandoned-temple-reel",
+  "item": "Slide reel: Abandoned Temple \u2014 incineration reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Hidden reel recovered from a Slide Burning Room (watched session 12)",
+  "id": "sr21-reservoir-vault-reel",
+  "item": "Slide reel: Reservoir \u2014 vault-lowering reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Island Tower symbol room",
+  "id": "sr13-island-tower-passage-reel",
+  "item": "Slide reel: Island Tower secret-passage reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Shrouded Woodlands (simulation)",
+  "id": "sr14-shrouded-archive-ringed-planet-reel",
+  "item": "Slide reel: Shrouded Woodlands archive \u2014 Ringed Planet reel (unburnt)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Shrouded Woodlands (simulation)",
+  "id": "sr15-shrouded-archive-bug-report-reel",
+  "item": "Slide reel: Shrouded Woodlands archive \u2014 bug report reel (raft jump)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Starlit Cove (simulation)",
+  "id": "sr16-starlit-archive-eye-reel",
+  "item": "Slide reel: Starlit Cove archive \u2014 Eye reel (unburnt)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Starlit Cove (simulation)",
+  "id": "sr17-starlit-archive-death-reel",
+  "item": "Slide reel: Starlit Cove archive \u2014 death-and-simulation reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Starlit Cove (simulation)",
+  "id": "sr18-starlit-archive-bug-report-reel",
+  "item": "Slide reel: Starlit Cove archive \u2014 bug report reel (dead Stranger / sentry)"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Endless Canyon (simulation)",
+  "id": "sr19-endless-archive-intact-reel",
+  "item": "Slide reel: Endless Canyon archive \u2014 intact reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Forbidden Archive, Endless Canyon (simulation)",
+  "id": "sr20-endless-archive-bug-report-reel",
+  "item": "Slide reel: Endless Canyon archive \u2014 bug report reel"
+ },
+ {
+  "category": "slide_reels",
+  "hint": "Watched the vault-lowering reel",
+  "id": "dlc-reel05-reservoir-vault-reel",
+  "item": "DLC: Reservoir vault reel"
+ },
+ {
+  "category": "dlc",
+  "hint": "Via Abandoned Temple symbol codes",
+  "id": "dlc-sec01-forbidden-archives",
+  "item": "DLC: reached all 3 Forbidden Archives"
+ },
+ {
+  "category": "dlc",
+  "hint": "Opened vault, met Prisoner, shared history via vision torch",
+  "id": "dlc-sec02-sealed-vault",
+  "item": "DLC: Sealed Vault + Prisoner"
+ },
+ {
+  "category": "dlc",
+  "hint": "Water, fall, campfire fire, alarm sentry, pursuer capture, chain elevator, pursuer spine adjustment",
+  "id": "dlc-sec03-dream-wake",
+  "item": "DLC: all seven dream wake methods"
+ },
+ {
+  "category": "dlc",
+  "hint": "~13 min into loop; reservoir flood",
+  "id": "dlc-sec04-dam-break",
+  "item": "DLC: dam break"
+ },
+ {
+  "category": "dlc",
+  "hint": "Stranger flees the supernova",
+  "id": "dlc-sec05-solar-sails",
+  "item": "DLC: solar sails deploy"
+ },
+ {
+  "category": "dlc",
+  "hint": "Hidden lab hull breach",
+  "id": "dlc-sec06-prototype-artifact",
+  "item": "DLC: second artifact prototype"
+ },
+ {
+  "category": "dlc",
+  "hint": "Dream-world Endless Canyon lodge (dream counterpart of Hidden Gorge): ground-floor gallery, illusory no-portrait wall; candle shrine, unique music",
+  "id": "dlc-sec07-music-room",
+  "item": "DLC: music room"
+ },
+ {
+  "category": "dlc",
+  "hint": "Atop Endless Canyon lodge roof",
+  "id": "dlc-sec08-golden-poop",
+  "item": "DLC: 1/900 golden poop"
+ },
+ {
+  "category": "dlc",
+  "hint": "Why the Eye's signal vanished; burned control interface",
+  "id": "dlc-sec09-signal-ship",
+  "item": "DLC: signal-blocking ship"
+ },
+ {
+  "category": "dlc",
+  "hint": "The physical device floating toward the Eye, e.g. viewed from the Vessel with signalscope zoom",
+  "id": "dlc-sec10-strangers-device-sighting",
+  "item": "DLC: sighting the Stranger's Device (Eye signal blocker) in space"
+ },
+ {
+  "category": "endings",
+  "hint": "Warped to the Eye via the Vessel; campfire finale",
+  "id": "end01-eye",
+  "item": "Eye of the Universe (true ending)"
+ },
+ {
+  "category": "endings",
+  "hint": "Died while not linked to the Ash Twin Project",
+  "id": "end02-game-over",
+  "item": "Game Over (You Are Dead)"
+ },
+ {
+  "category": "endings",
+  "hint": "Removed warp core, flew far, drifted until supplies ran out",
+  "id": "end03-isolation",
+  "item": "Isolation"
+ },
+ {
+  "category": "endings",
+  "hint": "Removed warp core, waited out supernova at sixth location",
+  "id": "end04-quantum-moon",
+  "item": "Quantum Moon ending"
+ },
+ {
+  "category": "endings",
+  "hint": "Broke causality; kazoo credits; You've met a terrible fate",
+  "id": "end05-breaking-spacetime",
+  "item": "Breaking Spacetime"
+ },
+ {
+  "category": "endings",
+  "hint": "Jumped into ATP black hole at supernova; met duplicate",
+  "id": "end06-self",
+  "item": "Self (paradox ending)"
+ },
+ {
+  "category": "endings",
+  "hint": "Removed warp core, waited on the Stranger past supernova range",
+  "id": "dlc-end01-stranger",
+  "item": "DLC ending: The Stranger"
+ },
+ {
+  "category": "endings",
+  "hint": "Removed warp core, died at dream fire, remained in dream",
+  "id": "dlc-end02-dream",
+  "item": "DLC ending: Dream"
+ },
+ {
+  "category": "endings",
+  "hint": "Invited the Prisoner to the Eye campfire; post-credits pond",
+  "id": "dlc-end03-enhanced",
+  "item": "DLC ending: enhanced true ending"
+ },
+ {
+  "category": "achievements",
+  "hint": "Completed the ship log",
+  "id": "ach01-archaeologist",
+  "item": "Archaeologist (complete ship log)"
+ },
+ {
+  "category": "achievements",
+  "hint": "Reached the Eye in one loop",
+  "id": "ach02-beginners-luck",
+  "item": "Beginner's Luck"
+ },
+ {
+  "category": "achievements",
+  "hint": "Manually flew to the Sun Station",
+  "id": "ach03-hotshot",
+  "item": "Hotshot"
+ },
+ {
+  "category": "achievements",
+  "hint": "Broke spacetime",
+  "id": "ach04-terrible-fate",
+  "item": "You've met a terrible fate"
+ },
+ {
+  "category": "achievements",
+  "hint": "Survived 1000+ damage in a loop",
+  "id": "ach05-die-hard",
+  "item": "Die Hard"
+ },
+ {
+  "category": "achievements",
+  "hint": "Broke through Giant's Deep current at speed",
+  "id": "ach06-deep-impact",
+  "item": "Deep Impact"
+ },
+ {
+  "category": "achievements",
+  "hint": "Launched ship with a gravity cannon",
+  "id": "ach07-pchoo",
+  "item": "Pchooooooo!"
+ },
+ {
+  "category": "achievements",
+  "hint": "Tried to escape the solar system",
+  "id": "ach08-worth-a-shot",
+  "item": "It was worth a shot"
+ },
+ {
+  "category": "achievements",
+  "hint": "De-orbited the Hearthian satellite",
+  "id": "ach09-rigidbody",
+  "item": "Rigidbody"
+ },
+ {
+  "category": "achievements",
+  "hint": "All five traveler instruments on signalscope at once",
+  "id": "ach10-harmonic-convergence",
+  "item": "Harmonic Convergence"
+ },
+ {
+  "category": "achievements",
+  "hint": "Brought an artifact back to the museum",
+  "id": "ach11-museum",
+  "item": "It belongs in a museum!"
+ },
+ {
+  "category": "achievements",
+  "hint": "Landed model rocket on the Attlerock",
+  "id": "ach12-hearth-to-moon",
+  "item": "From the Hearth to the Moon"
+ },
+ {
+  "category": "achievements",
+  "hint": "Destroyed model rocket in sun or Hollow's Lantern",
+  "id": "ach13-micas-wrath",
+  "item": "Mica's Wrath"
+ },
+ {
+  "category": "achievements",
+  "hint": "Died within 60 seconds of waking",
+  "id": "ach14-gone-60s",
+  "item": "Gone In 60 Seconds"
+ },
+ {
+  "category": "achievements",
+  "hint": "Ate 10 burnt marshmallows",
+  "id": "ach15-carcinogens",
+  "item": "Mmmm, Carcinogens..."
+ },
+ {
+  "category": "achievements",
+  "hint": "Pressed the ship ejection button",
+  "id": "ach16-eject-button",
+  "item": "Hey, what's this button do?"
+ },
+ {
+  "category": "achievements",
+  "hint": "Burned suit oxygen as jetpack propellant",
+  "id": "ach17-cutting-close",
+  "item": "Cutting it Close"
+ },
+ {
+  "id": "ach18-silenced-cartographer",
+  "category": "achievements",
+  "item": "The Silenced Cartographer",
+  "hint": "Render the Deep Space Satellite inoperable."
+ },
+ {
+  "id": "ach19-oof-ouch",
+  "category": "achievements",
+  "item": "Oof Ouch, My Bones",
+  "hint": "Have your spine adjusted by a pursuer."
+ },
+ {
+  "id": "ach20-around-the-world",
+  "category": "achievements",
+  "item": "Around the world in 90 seconds",
+  "hint": "Raft around the Stranger in under 90 seconds."
+ },
+ {
+  "id": "ach21-tubular",
+  "category": "achievements",
+  "item": "Tubular!",
+  "hint": "Ride the face of the wave for at least 15 seconds on a raft."
+ },
+ {
+  "id": "ach22-early-adopter",
+  "category": "achievements",
+  "item": "Early Adopter",
+  "hint": "Attempt to use the second artifact prototype."
+ },
+ {
+  "id": "ach23-grate-filter",
+  "category": "achievements",
+  "item": "The Grate Filter",
+  "hint": "Swim through the dam grate."
+ },
+ {
+  "id": "ach24-flat-hearther",
+  "category": "achievements",
+  "item": "Flat Hearther",
+  "hint": "Stand your ground beneath a moving chain elevator."
+ },
+ {
+  "id": "ach25-celsius",
+  "category": "achievements",
+  "item": "Celsius 232.78",
+  "hint": "This knowledge isn't going to forbid itself!"
+ },
+ {
+  "id": "ach26-ghosts",
+  "category": "achievements",
+  "item": "Ghosts in the Machine",
+  "hint": "Reach all 3 Forbidden Archives in a single loop without getting caught."
+ },
+ {
+  "id": "ach27-sleep-wake",
+  "category": "achievements",
+  "item": "Sleep. Wake. Repeat.",
+  "hint": "Be woken up from a dream 5 different ways in a single loop."
+ },
+ {
+  "id": "ach28-simulation",
+  "category": "achievements",
+  "item": "Simulation Hypothesis",
+  "hint": "Attempt to use the artifact at a normal campfire."
+ },
+ {
+  "id": "ach29-fire-arrows",
+  "category": "achievements",
+  "item": "Fire Arrows",
+  "hint": "Shoot the Little Scout at the artificial sun in the Stranger."
+ },
+ {
+  "id": "ach30-one-900",
+  "category": "achievements",
+  "item": "1 / 900",
+  "hint": "Yahaha! You found me!"
+ },
+ {
+  "id": "ach31-never-take-me",
+  "category": "achievements",
+  "item": "You'll Never Take Me Alive!",
+  "hint": "Escape your pursuers by jumping to your \"death\" instead of dodging past them."
+ }
+]
